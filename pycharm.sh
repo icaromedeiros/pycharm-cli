@@ -2,7 +2,7 @@
 # Example in MacOS
 
 # Uncomment the line below to include PYCHARM_BIN variable
-PYCHARM_BIN="/Applications/PyCharm.app/Contents/MacOS/pycharm"
+#PYCHARM_BIN="/path/to/PyCharm.app/Contents/MacOS/pycharm"
 
 # Comment this line below if you have PYCHARM_BIN defined
 : ${PYCHARM_BIN?"Need to set PYCHARM_BIN"}
